@@ -1,3 +1,11 @@
+# Kelompok 3 Sistem Multimedia A:
+# Aghiz Ghifari Setya Hidayat (1227050008)
+# Alfin Nurul Yamin (1227050014)
+# Andika Nuralamsyah (1227050020)
+# Angga Gustian (1227050022)
+# Aria Octavian Hamza (1227050025)
+
+
 import streamlit as st
 import numpy as np
 import cv2
