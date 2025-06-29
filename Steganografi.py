@@ -5,8 +5,6 @@
 # Angga Gustian (1227050022)
 # Aria Octavian Hamza (1227050025)
 
-
-import streamlit as st
 import numpy as np
 import cv2
 import os
